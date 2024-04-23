@@ -1,5 +1,5 @@
 # CPSC-217-A3
-"Star Trek" inspirited game played on the command line. Users move their ship around the screen to destroy enemy ships.
+"Star Trek" inspirited game played on the command line. User moves their ship around the screen to destroy enemy ships.
 
 Type "n" or "north" to move up
 
